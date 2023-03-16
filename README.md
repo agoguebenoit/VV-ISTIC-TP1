@@ -1,15 +1,10 @@
-# Validation and Verification: Practical Session #1
+# Validation and Verification: Practical Session #3
 
-This practical session will help to better understand validation and verification in practice, while being exposed to scientific materials.
+## Authors
 
-## Exercises
+AGOGUÉ Benoît
+Le GOFF Thibault
 
-You can access the exercises [here](sujet.md)
+## Answers
 
-## Lab implementation
-
-You can realize this lab by group of 1 or 2. 
-
-## Deliverable and evaluation
-
-We will mark this lab. You need to fork this repository and to submit a pull request with the answers directly [here](sujet.md) (deadline March 17th 2023, 23:59).
+[Answers](./rendu.md)
